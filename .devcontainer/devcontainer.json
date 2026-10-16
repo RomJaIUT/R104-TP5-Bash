@@ -1,0 +1,7 @@
+{
+  "name": "R104 Bash Debian 12",
+  "build": {
+    "dockerfile": "Dockerfile"
+  },
+  "remoteUser": "vscode"
+}
